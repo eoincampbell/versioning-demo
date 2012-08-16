@@ -1,0 +1,8 @@
+For the web version of this article, see the blog post at 
+
+http://trycatch.me/global-assembly-versioning-strategy-development-workflows-for-net-assemblies/
+
+##############################################################################################################
+
+The purpose of this solution is to provide a suggested pattern on how to version your assemblies
+particularly if you intend to Strongly Name them & Add them to the GAC.

@@ -1,0 +1,13 @@
+GAC Update on 15/08/2012 at 17:45:45.79 
+-------------------------------------------------- AssemblyList.txt -------------------------------------------------- 
+Microsoft (R) .NET Global Assembly Cache Utility.  Version 4.0.30319.1
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Assembly D:\Work\Sandbox\VersioningDemo\Stable\1.0.2736\VersioningDemo.Core.dll successfully added to the cache
+Assembly D:\Work\Sandbox\VersioningDemo\Stable\1.0.2736\VersioningDemo.DependentLib.dll successfully added to the cache
+
+Number of assemblies processed = 2
+Number of assemblies installed = 2
+Number of failures = 0
+-------------------------------------------------- AssemblyList.txt -------------------------------------------------- 
+Download cache deleted successfully

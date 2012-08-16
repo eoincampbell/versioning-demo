@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersioningDemo.Core", "VersioningDemo.Core\VersioningDemo.Core.csproj", "{E5253D0E-646D-46FA-94D8-0A98A3D6B1C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersioningDemo.DependentLib", "VersioningDemo.DependentLib\VersioningDemo.DependentLib.csproj", "{0E9DB7E8-6F83-459F-8630-735DB8321186}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{64E44A04-CC91-402D-9BF1-D23B1C6B3461}"
+	ProjectSection(SolutionItems) = preProject
+		CopyToStable.bat = CopyToStable.bat
+		GACStableLibs.bat = GACStableLibs.bat
+		GlobalAssemblyInfo.cs = GlobalAssemblyInfo.cs
+		VersioningDemo.snk = VersioningDemo.snk
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5253D0E-646D-46FA-94D8-0A98A3D6B1C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5253D0E-646D-46FA-94D8-0A98A3D6B1C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5253D0E-646D-46FA-94D8-0A98A3D6B1C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5253D0E-646D-46FA-94D8-0A98A3D6B1C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E9DB7E8-6F83-459F-8630-735DB8321186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9DB7E8-6F83-459F-8630-735DB8321186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9DB7E8-6F83-459F-8630-735DB8321186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9DB7E8-6F83-459F-8630-735DB8321186}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
